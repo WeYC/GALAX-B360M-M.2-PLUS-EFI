@@ -23,3 +23,5 @@
 
 CLOVER四叶草EFI [@fdfangzhou](https://github.com/fdfangzhou/GALAX-B360M-M.2-PLUS-EFI)
 
+国光的黑苹果安装教程<https://apple.sqlsec.com> Github[@sqlsec](https://github.com/sqlsec)
+
