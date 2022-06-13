@@ -1,0 +1,11 @@
+序列号		CO2TK2ZWJ1G5
+主板序列号	CO2715301J9JODXUE
+SmUUID		20B787D-84E8-417E-8EE7-D39DBD202572
+国家		China (Quanta Computer)
+年份		2017
+周		04.16.2017-04.22.2017
+庐线代码		1287 (copy 1)
+型号		iMac (Retina 4K, 21,5-inch, 2017)
+型号标识符	iMac18,2
+
+1541
